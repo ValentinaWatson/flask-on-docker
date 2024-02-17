@@ -1,0 +1,8 @@
+.env.prod.db
+.env.prod
+.env.dev
+
+*.swp
+*.swo
+*.swn
+*.swm
